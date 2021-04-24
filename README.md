@@ -9,7 +9,7 @@ My name is Eli; A dedicated full stack developer with 11+ years of customer serv
 😍 What i like to do:
 + I love video games (Skyrim + FallOut + Call of Duty:Warzone + AC + Valorant...many more!)
 + Playing D&D (currently DMing a game that has been going on for over 3 years!)
-+ Listening to Audiobooks whilst working in our family vineyard
++ Listening to Audiobooks whilst working our family vineyard
 + Lifting heavy weights! 
 
 
