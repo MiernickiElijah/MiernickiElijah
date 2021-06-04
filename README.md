@@ -19,7 +19,7 @@ My name is Eli; A full stack developer with 11+ years of customer service and sa
 ⚡ Relevant Achievements:
 + Bachelor's in Business Management and Administration from the University of Minnesota 
 + Master's in Exercise Science from Concordia University St. Paul
-+ Certified personal traininer and nutrtion coach through NASM and Precision Nutrition respectively. 
++ Certified personal traininer and nutrition coach through NASM and Precision Nutrition respectively. 
 + Over 11 years of customer service and sales experience in mutliple industries and levels. 
 
 
