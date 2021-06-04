@@ -1,5 +1,5 @@
 Welcome to my GitHub! 
-My name is Eli; A dedicated full stack developer with 11+ years of customer service experience seeking entry into business intelligence, analysis, and project management. Strong entrepreneurial mind with BA in business management and MS in exercise science. Proven history of improving processes by utilizing data and analytics while delivering the highest quality of service to clients. Adaptable individual with strong technical aptitude fixated on learning new computer science and project management skills. Currently earning a full stack development certificate through the University of Minnesota. 
+My name is Eli; A full stack developer with 11+ years of customer service and sales experience seeking entry into business intelligence and analysis. Strong entrepreneurial mind with BA in business management and MS in exercise science. Increased rentention rates and increased revenue by utilizing data collection and analytics to discover improvements whilst delivering the highest quality of service to clients. Adaptable individual with strong technical aptitude fixated on learning new programming languages and BI software. Currently earning a full stack development certificate through the University of Minnesota. 
 
 
 😍 What i like to do:
