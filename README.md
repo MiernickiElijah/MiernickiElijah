@@ -26,6 +26,5 @@ My name is Eli; A full stack developer with 11+ years of customer service and sa
 🛠 Interested in:
 + Becoming an analyst / data role 
 + Getting a PMP cert. 
-+ Career path to project manager
 
 😎 feel free to reach out! - MiernickiElijah@gmail.com
