@@ -11,7 +11,7 @@ My name is Eli; A full stack developer with 11+ years of customer service and sa
 
 💡 Goals for 2021:
 + Finish my full stack certification 
-+ Land an analyst role 
++ Find fun projects to code on! 
 + Develop an app 
 + Go on a vacation with my wife! 😊
 
