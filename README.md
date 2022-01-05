@@ -1,4 +1,6 @@
-My name is Eli -- A new full stack developer with 12+ years of customer service, account management, and sales experience, in addition to leadership roles. I have a strong entrepreneurial mind with a bachelor's in business management and master's in exercise science. I am an adaptable individual with strong technical aptitude fixated on learning new skills.  
+A certified new full stack developer with over 12 years of people experience (customer service, sales, and account management) in addition to leadership roles. I have a strong entrepreneurial mind with a bachelor's in business management and a master's in exercise science. 
+
+I am an adaptable individual with strong technical aptitude fixated on learning new skills.
 
 
 😍 What i like to do:
