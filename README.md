@@ -25,9 +25,6 @@ I am an adaptable individual with strong technical aptitude and problem solving 
 
 
 🛠 Interested in:
-+ Becoming a full time Developer and or Analyst
-+ Dropping 15lbs (thanks covid)
-+ Making money in new opportunities 
-
++ Becoming a full time Developer
 
 😎 Please reach out! - MiernickiElijah@gmail.com
