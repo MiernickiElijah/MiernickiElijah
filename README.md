@@ -2,19 +2,10 @@ A certified full stack developer with over 12 years of people experience (custom
 
 I am an adaptable individual with strong technical aptitude and problem solving skills fixated on learning and growing. 
 
-
-😍 What i like to do:
-+ I love playing video games (Skyrim + Call of Duty:Warzone + AC + FallOut...many more!)
-+ D&D (currently DMing a game that has been going on for over 4 years!)
-+ Listening to Audiobooks while working and driving
-+ Lifting weights! 
-
-
 💡 Goals for 2022:
 + Find fun projects to code on! 
 + Get hired as a Developer and or Analyst 
 + Go on a vacation with my wife! 😊
-
 
 ⚡ Relevant Achievements:
 + Father and Husband... Whoooo! 
@@ -23,6 +14,11 @@ I am an adaptable individual with strong technical aptitude and problem solving 
 + Certified personal traininer and nutrition coach through NASM and Precision Nutrition. 
 + Over 12 years of customer service and sales experience in mutliple industries and levels. 
 
+😍 What i like to do:
++ I love playing video games (Skyrim + Call of Duty:Warzone + AC + FallOut...many more!)
++ D&D (currently DMing a game that has been going on for over 4 years!)
++ Listening to Audiobooks while working and driving
++ Lifting weights! 
 
 🛠 Interested in:
 + Becoming a full time Developer
