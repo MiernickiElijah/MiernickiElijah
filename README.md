@@ -4,8 +4,8 @@ I am an adaptable individual with strong technical aptitude and problem solving 
 
 💡 Goals for 2022:
 + Find fun projects to code on! 
-+ Get hired as a Developer and or Analyst 
-+ Go on a vacation with my wife! 😊
++ Start a developer career 
++ Go on a vacation with my wife 😊
 
 ⚡ Relevant Achievements:
 + Father and Husband... Whoooo! 
