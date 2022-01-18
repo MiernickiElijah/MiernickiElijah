@@ -2,6 +2,8 @@ A certified full stack developer with over 12 years of people experience (custom
 
 I am an adaptable individual with strong technical aptitude and problem solving skills fixated on learning and growing. 
 
+Check out my portfolio! -->  https://miernickielijah.github.io/Swash.v3/
+
 💡 Goals for 2022:
 + Find fun projects to code on! 
 + Start a developer career 
