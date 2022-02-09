@@ -15,6 +15,7 @@ Check out my portfolio! -->  https://miernickielijah.github.io/Swash.v3/
 + Master's in Exercise Science from Concordia University St. Paul
 + Certified personal traininer and nutrition coach through NASM and Precision Nutrition. 
 + Over 12 years of customer service and sales experience in mutliple industries and levels. 
++ Full stack web development certification from the University of Minnesota
 
 😍 What i like to do:
 + I love playing video games (Skyrim + Call of Duty:Warzone + AC + FallOut...many more!)
