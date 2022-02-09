@@ -1,4 +1,4 @@
-A certified full stack developer with over 12 years of people experience (customer service, sales, and account management) in addition to leadership roles. I have a strong entrepreneurial mind with a bachelor's in business management and a master's in exercise science. 
+A certified full stack developer with over 12 years of people experience (customer service, sales, and account management) in addition to leadership roles. I have a strong entrepreneurial mind with a bachelor's in business management and a master's in science (exercise sciences). 
 
 I am an adaptable individual with strong technical aptitude and problem solving skills fixated on learning and growing. 
 
