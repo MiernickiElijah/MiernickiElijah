@@ -5,9 +5,9 @@ I am an adaptable individual with strong technical aptitude and problem solving 
 Check out my portfolio! -->  https://miernickielijah.github.io/Swash.v3/
 
 💡 Goals for 2022:
-+ Find fun projects to code on! 
-+ Start a developer career 
-+ Go on a vacation with my wife 😊
++ Find fun projects to code on! ✔️
++ Start a developer career ✔️
++ Go on a vacation with my wife 😊 ✔️
 
 ⚡ Relevant Achievements:
 + Father and Husband... Whoooo! 
@@ -19,11 +19,11 @@ Check out my portfolio! -->  https://miernickielijah.github.io/Swash.v3/
 
 😍 What i like to do:
 + I love playing video games (Skyrim + Call of Duty:Warzone + AC + FallOut...many more!)
-+ D&D (currently DMing a game that has been going on for over 4 years!)
++ D&D (best soft skills developing game on the planet)
 + Listening to Audiobooks while working and driving
 + Lifting weights! 
 
 🛠 Interested in:
-+ Becoming a full time Developer
++ Developing skills in C# and microservices
 
 😎 Please reach out! - MiernickiElijah@gmail.com
