@@ -10,7 +10,7 @@ Check out my portfolio! -->  https://miernickielijah.github.io/Swash.v3/
 + Go on a vacation with my wife 😊 ✔️
 
 ⚡ Relevant Achievements:
-+ Father and Husband... Whoooo! 
++ Father of two and Husband... Whoooo! 
 + Bachelor's in Business Management and Administration from the University of Minnesota 
 + Master's in Exercise Science from Concordia University St. Paul
 + Certified personal traininer and nutrition coach through NASM and Precision Nutrition. 
