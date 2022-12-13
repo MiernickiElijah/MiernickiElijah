@@ -5,7 +5,6 @@ I am an adaptable individual with strong technical aptitude and problem solving 
 Check out my portfolio! -->  https://miernickielijah.github.io/Swash.v3/
 
 💡 Goals for 2023
-+ Buy a new house.
 + Develop an evergreen application that matches my current income.
 + Get promoted to a full-stack developer role.
 + Deploy an enterprise wide application.
