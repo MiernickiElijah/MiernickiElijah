@@ -2,7 +2,7 @@ Associate Software Engineer with over 12 years of people experience (customer se
 
 I am an adaptable individual with strong technical aptitude and problem solving skills fixated on learning and growing. 
 
-Check out my portfolio! -->  https://miernickielijah.github.io/Swash.v3/
+Check out my portfolio! -->  https://miernickimade.vercel.app/
 
 💡 Goals for 2023
 + Develop an evergreen application that matches my current income.
