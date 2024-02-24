@@ -6,9 +6,9 @@ Check out my portfolio! -->  https://miernickimade.vercel.app/
 
 💡 Goals for 2024
 + Finish developing an evergreen application.
-+ Get promoted to a full-stack developer role.
-+ Deploy an enterprise wide application.
-+ Take a 10 day vacation with my wife (without the kids).
++ Get promoted to a full-stack developer role. &#x2705;
++ Deploy an enterprise-wide application.
++ Take a 10-day vacation with my wife (without the kids).
 
 ⚡ Relevant Achievements:
 + Father of two and Husband... Whoooo!
