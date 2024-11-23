@@ -5,7 +5,7 @@ I am an adaptable individual with strong technical aptitude and problem solving 
 Check out my portfolio! -->  https://miernickimade.vercel.app/
 
 💡 Goals for 2024
-+ Finish developing an evergreen application.
++ Finish developing an evergreen application. &#x2705;
 + Get promoted to a full-stack developer role. &#x2705;
 + Deploy an enterprise-wide application.  &#x2705;
 + Take a 10-day vacation with my wife (without the kids).
