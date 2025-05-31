@@ -4,31 +4,25 @@ I am an adaptable individual with strong technical aptitude and problem solving 
 
 Check out my portfolio! -->  https://miernickimade.vercel.app/
 
-💡 Goals for 2024
-+ Finish developing an evergreen application. &#x2705;
-+ Get promoted to a full-stack developer role. &#x2705;
-+ Deploy an enterprise-wide application.  &#x2705;
+💡 Goals for 2025
++ Launch my own application to the marketplace.
++ Get promoted to a SR. full-stack developer role.
 + Take a 10-day vacation with my wife (without the kids).
++ Get sub 15% BF for the summer. 
 
 ⚡ Relevant Achievements:
 + Father of two and Husband... Whoooo!
-+ Have yet to get the dad bod...so winning? 
++ Have yet to get the dad bod...so winning?
++ Launched Life Time's Coaching Platform (Member and Team member supported)
 + Bachelor's in Business Management and Marketing from the University of Minnesota.
 + Dungeon Mastered a game that lasted 5 years.
 + Master's in Exercise Science from Concordia University St. Paul.
 + Certified personal traininer and nutrition coach. 
-+ Full stack web development certification from the University of Minnesota.
-+ Better KD in warzone than my brothers and friends.
++ Full stack certification from the University of Minnesota.
 
 😍 What i like to do:
-+ I love playing video games (Skyrim + Call of Duty:Warzone + StarField / FallOuts ...many more!).
++ I love playing video games (Skyrim + Warzone + Kingdom Come Deliverence II + FallOut4 ...etc).
 + D&D (best soft skills developing game on the planet).
-+ Listening to Audiobooks while working and driving.
 + Lifting weights! 
-
-🛠 Interested in:
-+  Side hustle start ups.
-+  Sports betting
-+  Advancing to a senior developer role and tech management
 
 😎 Please reach out! - MiernickiElijah@gmail.com
