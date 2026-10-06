@@ -5,14 +5,13 @@ I am an adaptable individual with strong technical aptitude and problem solving 
 Check out my portfolio! -->  https://miernickimade.vercel.app/
 
 💡 Goals for 2026
-+ Move Alpacca from Alpha to Beta
-+ Get promoted to a SR. full-stack developer role.
-+ 190lbs lean 
++ Moveed Alpacca from Alpha to Beta --> https://alpacca.app
++ 190lbs lean....I just had another kid, so giving some grace on this one 😅
 
 ⚡ Relevant Achievements:
 + Father of 3 and Husband... Whoooo!
-+ Have yet to get the dad bod...so winning?
-+ Launch and Support Life Time digital training platform
++ Have yet to get the dad bod....but its getting too close.
++ Launch and Support Life Time digital training platform and built the new AI training assistant for it
 + Bachelor's in Business Management and Marketing from the University of Minnesota.
 + Dungeon Mastered a game that lasted 5 years.
 + Master's in Exercise Science from Concordia University St. Paul.
