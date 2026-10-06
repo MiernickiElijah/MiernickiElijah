@@ -5,7 +5,7 @@ I am an adaptable individual with strong technical aptitude and problem solving 
 Check out my portfolio! -->  https://miernickimade.vercel.app/
 
 💡 Goals for 2026
-+ Moveed Alpacca from Alpha to Beta --> https://alpacca.app
++ Moved Alpacca from Alpha to Beta --> https://alpacca.app
 + 190lbs lean....I just had another kid, so giving some grace on this one 😅
 
 ⚡ Relevant Achievements:
